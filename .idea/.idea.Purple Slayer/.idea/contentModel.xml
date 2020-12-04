@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Mo-Af\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Mo-Af\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Purple Slayer.-907734179.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Mo-Af\Purple Slayer" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Dialogue System" t="Include">
+            <e p="Data_Dialogue.cs" t="Include" />
+            <e p="DialogueManager.cs" t="Include" />
+          </e>
+          <e p="Enemies" t="Include">
+            <e p="Enemy specific" t="Include">
+              <e p="Enemy1" t="Include">
+                <e p="Data" t="Include">
+                  <e p="D_Enemy1.cs" t="Include" />
+                </e>
+                <e p="E1_IdleState.cs" t="Include" />
+                <e p="E1_PlayerDetected.cs" t="Include" />
+                <e p="Enemy1.cs" t="Include" />
+              </e>
+              <e p="Enemy2" t="Include">
+                <e p="Data" t="Include">
+                  <e p="D_Enemy2.cs" t="Include" />
+                </e>
+                <e p="E2_IdleState.cs" t="Include" />
+                <e p="E2_MoveState.cs" t="Include" />
+                <e p="E2_RunState.cs" t="Include" />
+                <e p="Enemy2.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Enemy State Machine" t="Include">
+              <e p="EnemyState.cs" t="Include" />
+              <e p="EnemyStateMachine.cs" t="Include" />
+              <e p="Entity.cs" t="Include" />
+            </e>
+            <e p="General States" t="Include">
+              <e p="Data" t="Include">
+                <e p="D_Entity.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Gameplay" t="Include">
+            <e p="Pause Menu" t="Include">
+              <e p="PauseController.cs" t="Include" />
+            </e>
+            <e p="Spawner" t="Include">
+              <e p="EnemySpawnDetails.cs" t="Include" />
+              <e p="EnemySpawner.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Platforms" t="Include">
+            <e p="PlatformMover.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="AfterImage" t="Include">
+              <e p="AfterImage.cs" t="Include" />
+              <e p="AfterImagePool.cs" t="Include" />
+            </e>
+            <e p="Player State Machine" t="Include">
+              <e p="Player.cs" t="Include" />
+              <e p="PlayerState.cs" t="Include" />
+              <e p="PlayerStateMachine.cs" t="Include" />
+            </e>
+            <e p="Player States" t="Include">
+              <e p="Player Data" t="Include">
+                <e p="PlayerData.cs" t="Include" />
+              </e>
+              <e p="PlayerAttackState.cs" t="Include" />
+              <e p="PlayerCrouch.cs" t="Include" />
+              <e p="PlayerCrouchAttack.cs" t="Include" />
+              <e p="PlayerIdleState.cs" t="Include" />
+              <e p="PlayerInAirState.cs" t="Include" />
+              <e p="PlayerJumpState.cs" t="Include" />
+              <e p="PlayerMoveState.cs" t="Include" />
+            </e>
+            <e p="PlayerInputHandler.cs" t="Include" />
+          </e>
+          <e p="Save" t="Include">
+            <e p="Save.cs" t="Include" />
+            <e p="SaveManager.cs" t="Include" />
+          </e>
+          <e p="Structs" t="Include">
+            <e p="AttackDetails.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Purple Slayer.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
